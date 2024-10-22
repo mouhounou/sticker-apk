@@ -121,6 +121,7 @@ export default function Index() {
             pickedEmoji && <EmojiSticker imageSize={40} stickerSource= {pickedEmoji}/>
           }
         </View>
+        
       </View>
 
       {showAppOptions ?
